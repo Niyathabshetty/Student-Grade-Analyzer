@@ -4,8 +4,6 @@
 
 Develop a Python program to analyze student marks and generate performance insights.
 
----
-
 ## Features
 
 * Add student details dynamically
